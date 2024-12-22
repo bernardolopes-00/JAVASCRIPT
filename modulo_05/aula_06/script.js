@@ -11,4 +11,4 @@ console.log(frutas);
 
 // splice(indice, numeroDeItensRemover, item1...)
 frutas.splice(1, 2);
-console.log(frutas)
+console.log(frutas);
